@@ -22,3 +22,5 @@ Configuration de l'environnement Vue.js:
 - LANCER LE SERVEUR DE DEVELOPPEMENT: npm run serve
 - Lancer le serveur de production: npm run build 
 - se positionner sur package.son puis npm run dev 
+# projet-dev
+# portfolio-hakima
