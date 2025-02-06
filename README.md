@@ -24,3 +24,4 @@ Configuration de l'environnement Vue.js:
 - se positionner sur package.son puis npm run dev 
 # projet-dev
 # portfolio-hakima
+# portfolio-hakima
